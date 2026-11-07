@@ -1,6 +1,6 @@
 ## Italo Luan
 
-Estudante de Engenharia de Software - Unigran Capital Estudante em Tecnico em Desenvolvimento de Sistemas - Senac Hub MS
+Estudante de Engenharia de Software - Estácio de Campo Grande Estudante em Tecnico em Desenvolvimento de Sistemas - Senac Hub MS
 
 ##
 <div>
